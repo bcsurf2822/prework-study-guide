@@ -12,10 +12,10 @@ To get this project up and going I first installed Gitbash and Vs Code onto my c
 ## Usage
 
 The Screenshots below are step by step on how to get to the JavaScript Console from VS code to Inspector mode in browser
-![alt text](assets/images/S1.png)
-![alt text](assets/images/S2.png)
-![alt text](assets/images/S3.png)
-![alt text](assets/images/S4.png)
+![alt text](prework-study-guide/S1.png)
+![alt text](prework-study-guide/S2.png)
+![alt text](prework-study-guide/S3.png)
+![alt text](prework-study-guide/S4.png)
 
 ## Credits
 
