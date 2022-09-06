@@ -7,15 +7,23 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-To get this project up and going I first installed Gitbash and Vs Code onto my computer.  These tools helped me to edit, create, push, and pull files and edited documents back and forth to GitHub.  I also had to learn how to use GitHub through helpful documents provided through their website and through our Bootcamp module.  After modifying a file I had to merge these edited files into my main Github Repository.  The first thing I edited and pushed to the Repo was the HTML file.  After that was merged to the repo i created a CSS file which I edited and styled my website with colors and boxes.  Once that was merged to the main Repo I created the JS file and added HTML, CSS, JS, and Git to the console log.  At the end of the project I read about and am actually currently creating my first ReadMe file.  
+To get this project up and going I first installed Gitbash and Vs Code onto my computer.  These tools helped me to edit, create, push, and pull files and edited documents back and forth to GitHub.  I also had to learn how to use GitHub through helpful documents provided through their website and through our Bootcamp module.  After modifying a file I had to merge these edited files into my main Github Repository.  The first thing I edited and pushed to the Repo was the HTML file.  After that was merged to the repo i created a CSS file which I edited and styled my website with colors and boxes.  Once that was merged to the main Repo I created the JS file and added HTML, CSS, JS, and Git to the console log.  At the end of the project I read about and am actually currently creating my first ReadMe file.  Lastly I made a new branch called assets/images and merged pictures into the main branch so i could add them to the readme.   See usage below.  
 
 ## Usage
 
-The Screenshots below are step by step on how to get to the JavaScript Console from VS code to Inspector mode in browser
-![alt text](prework-study-guide/S1.png)
-![alt text](prework-study-guide/S2.png)
-![alt text](prework-study-guide/S3.png)
-![alt text](prework-study-guide/S4.png)
+The Screenshots below are step by step on how to get to the JavaScript Console from VS code to Inspector mode in browser.
+
+In this step I am in VS code preparing to launch website in the browser
+![alt text](S1.png)
+
+Once you open the browser you will see this page displayed
+![alt text](S2.png)
+
+In this image I will right click to open a menu and then click on the inspect button
+![alt text](S3.png)
+
+Once you are in inspector mode you can open up the JavaScript console to view the following menu
+![alt text](S4.png)
 
 ## Credits
 
